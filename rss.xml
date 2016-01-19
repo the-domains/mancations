@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Mancations]]></title>
         <description><![CDATA[Mancations]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mancations/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 15:08:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 15:14:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mancations/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[10 of the best adventure holidays in Europe]]></title>
+            <description><![CDATA[<article><h1>10 of the best adventure holidays in Europe</h1><p>The Persians named Cappadocia "the land of beautiful horses" after its wild mountain ponies - and the striking landscape of deep canyons and strangely shaped rocks is perfect for an unusual horseback adventure. Ride Worldwide has an eight-day group trip that crosses plateaux, canters along valley floors and explores remote villages.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3eebc249c1196c1d2dd0d9adb497ea16b6d1fac.jpg"></article>]]></description>
+            <link>http://www.theguardian.com/travel/2016/jan/17/top-10-europe-adventure-holidays?utm_medium=email&amp;utm_source=flipboard</link>
+            <guid isPermaLink="false">a20384bf-086e-4a03-9e33-7bb7b3e688bd</guid>
+            <pubDate>Tue, 19 Jan 2016 15:14:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Best Places To Go In 2016: Tips From The World's Hottest Luxury Travel Company]]></title>
-            <description><![CDATA[<article><h1>The Best Places To Go In 2016: Tips From The World's Hottest Luxury Travel Company</h1><p>Since its founding in 2005, bespoke travel company Black Tomato has distinguished itself amongst a sea of competitors thanks to its knack for devising adventures that push the limits of travel for a discerning and sophisticated clientele. In 2015 alone, it sent clients-who range from young, in-the-know globetrotters to captains [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd2113c6e4d4930e367acf73fa021cfba515a7fc.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Best Places To Go In 2016: Tips From The World's Hottest Luxury Travel Company</h1><p>Since its founding in 2005, bespoke travel company Black Tomato has distinguished itself amongst a sea of competitors thanks to its knack for devising adventures that push the limits of travel for a discerning and sophisticated clientele. In 2015 alone, it sent clients-who range from young, in-the-know globetrotters to captains [...]</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c92f47f68d17d68260ca7033f18983c7b24f914.jpg"></article>]]></description>
             <link>http://www.forbes.com/sites/alexandrakirkman/2016/01/14/the-best-places-to-go-in-2016-tips-from-the-worlds-hottest-luxury-travel-company/?utm_medium=email&amp;utm_source=flipboard#2715e4857a0b65ebe59d3b8f</link>
             <guid isPermaLink="false">de057872-13e4-43f6-be54-b026573ca001</guid>
             <pubDate>Tue, 19 Jan 2016 15:07:54 GMT</pubDate>
