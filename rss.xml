@@ -4,8 +4,15 @@
         <description><![CDATA[Mancations]]></description>
         <link>https://thegrid.ai/mancations/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 17:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 17:22:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mancations/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://cdn.gearpatrol.com/wp-content/uploads/2016/04/25-Best-Hotels-Cinematic-Lead-Full-2.jpg">]]></description>
+            <link>https://thegrid.ai/mancations/b08b8a54-16b3-4f2d-ab90-25065dd9222a/index.html</link>
+            <guid isPermaLink="false">b08b8a54-16b3-4f2d-ab90-25065dd9222a</guid>
+            <pubDate>Thu, 12 May 2016 17:22:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pricing & Features]]></title>
             <description><![CDATA[<article><h1>Pricing & Features</h1><p>Power Center- manages all the 110V power, converter and 12V battery power 125 ah Deep cell Marine battery 4 USB power outlets 2- 110 v.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/20aa207d211a9854224df0ffe823b392a5bc71e7.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.businessinsider.com/best-street-food-in-40-countries-2016-1?utm_medium=email&amp;utm_source=flipboard</link>
             <guid isPermaLink="false">76390a2c-f43d-4e7a-a425-a0e7842f2ea7</guid>
             <pubDate>Sat, 30 Jan 2016 14:17:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Best "Bourbons" That Break The Rules]]></title>
-            <description><![CDATA[<article><h1>The Best "Bourbons" That Break The Rules</h1><p>The word bourbon has built a great reputation for American whiskey, and for good reason, but it may be time to consider outsiders and do away with labels. To use the word bourbon you have to play by the rules, and there are three big ones every distiller has to keep in mind if they want to put the big "B" on the bottle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e60e91b5c3d6e4109dd6b6d5feb1bd486465d82.jpg"></article>]]></description>
-            <link>http://www.mensjournal.com/food-drink/drinks/the-best-bourbons-that-break-the-rules-20160113?utm_medium=email&amp;utm_source=flipboard</link>
-            <guid isPermaLink="false">cf9f9b99-775d-4785-9ece-ca9df2f20071</guid>
-            <pubDate>Thu, 28 Jan 2016 18:19:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
